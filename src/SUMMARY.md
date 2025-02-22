@@ -42,6 +42,8 @@
   - [Game Theory](misc/game_theory.md)
     - [Nim and Sprague-Grundy Theorem](misc/nim_and_sg_value.md)
 - [C++ Programming Tips]()
+- [String]()
+  - [KMP](KMP/kmp.md)
 
 ---
 
