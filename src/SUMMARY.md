@@ -13,6 +13,7 @@
 
 - [Fundemantal]()
 - [Data Structure]()
+  - [Persistable Segment Tree](data_structures/Sengment_Tree/persistable_segment_tree.md)
 - [Greedy](greedy/intro.md)
   - [Basic Greedy](greedy/basic.md)
 - [Dynamic Programming]()
